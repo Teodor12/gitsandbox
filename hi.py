@@ -1,0 +1,1 @@
+print("Hi from story-2!")
